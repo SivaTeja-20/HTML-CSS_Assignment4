@@ -55,48 +55,55 @@ header{
 }
 
 .title{
-    margin: 50px 150px;
+   
 }
 
 .title_one{
-    width: 40%;
+    width: 45%;
     padding-left: 50px;
-    margin: 5px 15px;
+    margin: 10px 15px;
     
 }
 
 .title_one h2{
     font-size: 30px;
-    padding-top: 55px;
-    width: 400px;
+    
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 50%;
     
 }
 
 .title_two{
-    width: 50%;
+    width: 45%;
     margin: 5px 15px;
 }
 .title_two img{
     
     width: 50%;
+    padding: 30px;
+    padding-left: 20px;
     margin: 2%;
     
 }
 
 .abc{
     padding-top: 10px;
-    width: 90%;
+    padding-left: 100px;
+    width: 75%;
     font-size: 18px;
 }
 
 .xyz{
     padding: 5px;
-    width: 30%;
+    padding-left: 100px;
+    width: 20%;
 }
 
 .def{
     padding: 5px;
-    width: 50%;
+    padding-left: 100px;
+    width: 35%;
 }
 
 .support{
@@ -142,8 +149,8 @@ header{
 .support_box_two{   
     width: 40%;
     background-color: rgb(238, 238, 225); 
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-right: 60px;
+    padding-left: 60px;
 }
 
 .support_box_two img{
